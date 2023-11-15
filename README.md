@@ -1,4 +1,4 @@
-# Redis Backend for Jupyter's Configurable Proxy
+# Redis Backend(support redis cluster) for Jupyter's Configurable Proxy
 
 [![Build Status](https://travis-ci.org/globocom/configurable-http-proxy-redis-backend.svg?branch=master)](https://travis-ci.org/globocom/configurable-http-proxy-redis-backend) [![npm version](https://badge.fury.io/js/configurable-http-proxy-redis-backend.svg)](https://badge.fury.io/js/configurable-http-proxy-redis-backend)
 
