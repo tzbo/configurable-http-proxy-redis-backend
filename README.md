@@ -9,10 +9,10 @@
 **configurable-http-proxy-redis-backend** requires Node.js ≥ v6.0.0 and **configurable-http-proxy** ≥ v3.1.0.
 
 
-To install *configurable-http-proxy-redis-backend*:
+To install *configurable-http-proxy-redis-backend2*:
 
 ```
-npm install configurable-http-proxy configurable-http-proxy-redis-backend
+npm install configurable-http-proxy configurable-http-proxy-redis-backend2
 ```
 
 # Usage
@@ -34,7 +34,7 @@ configurable-http-proxy \
     --default-target http://127.0.0.1:8081 \
     --error-target http://127.0.0.1:8081/hub/error \
     --log-level debug \
-    --storage-backend configurable-http-proxy-redis-backend
+    --storage-backend configurable-http-proxy-redis-backend2
 ```
 
 # Redis URL and Sentinel URL
