@@ -48,4 +48,5 @@ Currently, we are supporting the follow URL formats:
 * sentinel://host1:port,host2:port/master-name
 * sentinel://:auth@host1:port,host2:port/master-name
 
+* cluster://auth@host1:port,host2:port
 * cluster://:auth@host1:port,host2:port
